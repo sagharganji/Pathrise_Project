@@ -1,4 +1,6 @@
-<img width="1920" alt="6101c75acdae685d714b4e1d_og" src="https://github.com/sagharganji/Pathrise_Project/assets/99666375/bf3b940d-f9df-4dde-8529-6e4281ccde64">
+![image](https://github.com/sagharganji/Pathrise_Project/assets/99666375/eb31a033-4a5d-4809-9bfb-759f632bf17f)
+
+
 
 ## Data Challenge Assignment
 
